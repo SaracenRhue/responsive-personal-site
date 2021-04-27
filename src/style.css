@@ -158,6 +158,11 @@ h1 {
 p {
     font-size: 20px;
 }
+.headshot {
+    width: 150px;
+    border-radius: 75px;
+    margin: 0 0 0 0;
+}
 .project-card{
     max-width: 90vw;
 }
